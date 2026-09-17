@@ -26,7 +26,7 @@ Cybersecurity Professional | Web Application Security & Penetration Testing
 </p>
 
 <p align="center">
-  <b>Open to freelance security engagements — VAPT, WordPress security, and malware removal. Reach out via Telegram for a quick response.</b>
+  <b>Open to freelance security engagements — VAPT, Web Development , Penetration testing and Server Malware removal. Reach out via Telegram for a quick response.</b>
 </p>
 
 ---
