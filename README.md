@@ -30,9 +30,13 @@ Cybersecurity Professional | Web Application Security & Penetration Testing
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=nullkitsunedev&data=followers,repositories,stars,commits&theme=aether" width="100%"/>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://ghstats.dev/api/card?username=nullkitsunedev&theme=radical&border_radius=50" height="200" /></td>
+    <td><img src="https://ghstats.dev/api/langs?username=nullkitsunedev&theme=radical&layout=donut" height="200" /></td>
+    <td><img src="https://ghstats.dev/api/mini?username=nullkitsunedev&theme=radical&metric=repos" height="200" /></td>
+  </tr>
+</table>
 
 ## About Me
 
