@@ -3,16 +3,9 @@
   <img src="./Images/dev-stack-banner.svg" width="100%"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff2b2b&size=26&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nahid;Cybersecurity+Professional;Web+App+Pentester+%26+Reverse+Engineer" alt="Typing Intro" />
+  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Offensive%20Security%20Researcher%20%7C%20Developer&theme=shadow&color=%23ff1f1f&particleColor=%23ffffff&background=%230a0000" alt="Typing SVG" />
 </p>
-
-<h1 align="center">Nahid (NullkitsuneDev)</h1>
-
-<h3 align="center">
-Cybersecurity Professional | Web Application Security & Penetration Testing
-</h3>
 
 ---
 
@@ -30,13 +23,11 @@ Cybersecurity Professional | Web Application Security & Penetration Testing
 </p>
 
 ---
-<table align="center">
-  <tr>
-    <td><img src="https://ghstats.dev/api/card?username=nullkitsunedev&theme=radical&border_radius=50" height="200" /></td>
-    <td><img src="https://ghstats.dev/api/langs?username=nullkitsunedev&theme=radical&layout=donut" height="200" /></td>
-    <td><img src="https://ghstats.dev/api/mini?username=nullkitsunedev&theme=radical&metric=repos" height="200" /></td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api?username=nullkitsunedev&theme=shadow" alt="nullkitsunedev's GitHub Stats" height="165" style="vertical-align:top" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=nullkitsunedev&theme=shadow" alt="Top Languages" height="165" style="vertical-align:top" />
+</p>
 
 ## About Me
 
