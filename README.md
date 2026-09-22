@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=ff2b2b&size=26&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nahid;Cybersecurity+Professional;Web+App+Pentester+%26+Reverse+Engineer" alt="Typing Intro" />
 </p>
 
-<h1 align="center">Nahidul Islam (nullkitsune)</h1>
+<h1 align="center">Nahid (NullkitsuneDev)</h1>
 
 <h3 align="center">
 Cybersecurity Professional | Web Application Security & Penetration Testing
