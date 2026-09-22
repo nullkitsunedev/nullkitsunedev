@@ -29,6 +29,3 @@
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=nullkitsunedev&theme=shadow" alt="Top Languages" height="165" style="vertical-align:top" />
 </p>
 
-## About Me
-
-- Self-taught developer & cybersecurity professional based in Bangladesh, specializing in web application security, developing and Reverse engineering.
