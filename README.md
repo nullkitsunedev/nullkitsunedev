@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nullkitsunedev/nullkitsunedev/refs/heads/main/Images/animated-terminal.svg" />
+  <img src="https://raw.githubusercontent.com/nullkitsunedev/nullkitsunedev/refs/heads/main/Images/animated-terminal.svg" width="100%" />
 </p>
 
 ---
