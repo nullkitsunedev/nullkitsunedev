@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Offensive%20Security%20Researcher%20%7C%20Developer&theme=shadow&color=%23ff1f1f&particleColor=%23ffffff&background=%230a0000" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/nullkitsunedev/nullkitsunedev/refs/heads/main/Images/animated-terminal.svg" />
 </p>
 
 ---
