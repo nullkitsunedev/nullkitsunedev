@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./Images/dev-stack-banner.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/nullkitsunedev/nullkitsunedev/refs/heads/main/Images/dev-stack-banner.svg" width="100%"/>
 </p>
 
 <p align="center">
